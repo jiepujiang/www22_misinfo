@@ -7,8 +7,8 @@ This repository includes the dataset and analysis scripts for our WWW '22 paper:
 ### Description
 * data.json: experiment log
 * judgments.json: search result judgments
-* tests.json: pre/post-task factual questions and correct answers (in Chinese)
-* survey.txt: pre/post-task survey questions (in Chinese)
-* task.txt: task description (in Chinese)
+* tests.json: pre/post-task factual questions and correct answers
+* survey.txt: pre/post-task survey questions
+* task.txt: task description
 * analysis.ipynb: analysis script
 * requirements.txt: Python 3.8 dependency list
