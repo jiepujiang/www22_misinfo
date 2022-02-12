@@ -2,22 +2,7 @@
 
 This repository includes the dataset and analysis scripts for our WWW '22 paper: 
 * Qiurong Song and Jiepu Jiang. 2022. [How Misinformation Density Affects Health Information Search](https://jiepujiang.github.io/papers/www22_misinfo.pdf). In *Proceedings of the ACM Web Conference 2022 (WWW '22), April 25–29, 2022, Virtual Event, Lyon, France*. ACM, New York, NY, USA, 10 pages. https://doi.org/10.1145/3485447.3512141
-
-### BibTeX
-
-@inproceedings{10.1145/3485447.3512141,
-	author = {Song, Qiurong and Jiang, Jiepu},
-	title = {How Misinformation Density Affects Health Information Search},
-	year = {2022},
-	publisher = {Association for Computing Machinery},
-	address = {New York, NY, USA},
-	url = {https://doi.org/10.1145/3485447.3512141},
-	doi = {10.1145/3485447.3512141},
-	booktitle = {Proceedings of the ACM Web Conference 2022},
-	numpages = {10},
-	location = {Virtual Event, Lyon, France},
-	series = {WWW '22}
-}
+* [BibTeX](https://github.com/jiepujiang/www22_misinfo/blob/main/www22_song.bib)
 
 ### Description
 * data.json: experiment log
